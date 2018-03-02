@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/anoop/AndroidStudioProjects/MyPhoto/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/anoop/AndroidStudioProjects/MyPhoto/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_88a5089dde371cf370fbf749eedad98a9411edeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anoop/AndroidStudioProjects/MyPhoto/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/anoop/AndroidStudioProjects/MyPhoto/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_e4b512a9fff6d7263d38ba33c576e2f601192e60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anoop/AndroidStudioProjects/MyPhoto/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/anoop/AndroidStudioProjects/MyPhoto/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_72de2a3722cab1d4956f773a1771dc1712445f9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anoop/AndroidStudioProjects/MyPhoto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/home/anoop/AndroidStudioProjects/MyPhoto/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.0.1_362d2c6d7a6e3ef298b37abe95d4e6a39ac4deb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anoop/AndroidStudioProjects/MyPhoto/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/anoop/AndroidStudioProjects/MyPhoto/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_35faa4f9b87c88ca24ee159a1eb2444eac100a9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anoop/AndroidStudioProjects/MyPhoto/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/anoop/AndroidStudioProjects/MyPhoto/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_783419af7b641b14907eaeefe7c6a765f387d9ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anoop/AndroidStudioProjects/MyPhoto/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/anoop/AndroidStudioProjects/MyPhoto/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_ecd7705c90c6b4056af34edabce5a4ef6345d74e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anoop/AndroidStudioProjects/MyPhoto/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/anoop/AndroidStudioProjects/MyPhoto/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_547630cb8659e1920c94d63d6af26f209b274ea6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anoop/AndroidStudioProjects/MyPhoto/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/anoop/AndroidStudioProjects/MyPhoto/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_776b2b15764912e0fd9c442e924d88a2632a7f18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anoop/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/anoop/AndroidStudioProjects/MyPhoto/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_edea7348bdbce891da5b584067c4175740618d05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anoop/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/home/anoop/AndroidStudioProjects/MyPhoto/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.9_e95f2f6d08c7ec085b45b0deff85c4b18d98b32a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anoop/AndroidStudioProjects/MyPhoto/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/anoop/AndroidStudioProjects/MyPhoto/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_11e159c0bf8a67d282eb103e7b28634e2133c614.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anoop/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/home/anoop/AndroidStudioProjects/MyPhoto/app/build/intermediates/pre-dexed/debug/httpclient-4.3.6_f0cef8e8f2075725c38fd99008766ad69f2bb69e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anoop/AndroidStudioProjects/MyPhoto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/home/anoop/AndroidStudioProjects/MyPhoto/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.0.1_4ae3459dea22c819da080c86c4e42c462e196cc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anoop/AndroidStudioProjects/MyPhoto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/home/anoop/AndroidStudioProjects/MyPhoto/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.0.1_72a65d1751a0f0008c441045fef56c622a8e5d61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anoop/AndroidStudioProjects/MyPhoto/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/anoop/AndroidStudioProjects/MyPhoto/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_cba39909889147c1015cc932cfbd687a55b62917.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anoop/AndroidStudioProjects/MyPhoto/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/anoop/AndroidStudioProjects/MyPhoto/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_0bc6c6b6b4c9cb232fdc9d964489b12e35cebaad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anoop/AndroidStudioProjects/MyPhoto/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/anoop/AndroidStudioProjects/MyPhoto/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_0fc3b1ade8dd75398e5a2714a8e18fef73218efc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anoop/AndroidStudioProjects/MyPhoto/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/anoop/AndroidStudioProjects/MyPhoto/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_5ee2cab69e408abb7b862d51eb3596b482ce8468.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anoop/AndroidStudioProjects/MyPhoto/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="/home/anoop/AndroidStudioProjects/MyPhoto/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-10.0.1_e76477eba121287362587e416be3c408d48240e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anoop/AndroidStudioProjects/MyPhoto/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/anoop/AndroidStudioProjects/MyPhoto/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_82ffbe3b107b0a53e49ed9a226aef1dd8943950a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anoop/AndroidStudioProjects/MyPhoto/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/anoop/AndroidStudioProjects/MyPhoto/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_f821bc29cb31ab9303a42bf09da5993fb811cec1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anoop/AndroidStudioProjects/MyPhoto/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/anoop/AndroidStudioProjects/MyPhoto/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_42b3fbf9b31f880e968c653950a75d09585381f6.jar" />
+    </item>
+
+</items>

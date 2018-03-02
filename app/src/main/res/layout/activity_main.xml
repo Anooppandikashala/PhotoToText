@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    android:orientation="vertical"
+    tools:context="com.example.anoop.myphoto.MainActivity"
+    android:background="@drawable/back"
+    tools:showIn="@layout/app_bar_main2">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:orientation="horizontal"
+            android:background="@drawable/back3"
+            android:layout_marginTop="1dp"
+            >
+            <TextView
+                android:text="Photo to Text"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/textView"
+                android:textAlignment="center"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:textColor="#fdd"
+
+                />
+
+
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            android:orientation="horizontal"
+            android:layout_gravity="center"
+            android:background="@drawable/back3">
+
+            <ImageView
+                android:layout_gravity="center"
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                app:srcCompat="@drawable/capture"
+                android:layout_marginLeft="20dp"
+                android:maxWidth="100dp"
+                android:maxHeight="100dp"
+
+                android:id="@+id/imageView" />
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginRight="1dp"
+                >
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    >
+
+
+                <ImageView
+                    android:layout_width="70dp"
+                    android:layout_height="80dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="15dp"
+                    android:id="@+id/imgbtn"
+                    app:srcCompat="@drawable/capturecamera"
+                    android:onClick="capture"
+                    />
+
+                <ImageView
+                    android:layout_width="70dp"
+                    android:layout_height="80dp"
+                    android:layout_marginLeft="1dp"
+                    android:layout_marginTop="15dp"
+                    android:id="@+id/imgbtn2"
+                    app:srcCompat="@drawable/capturefile"
+                    android:onClick="browse"
+                    />
+
+                <ImageView
+                    android:layout_width="70dp"
+                    android:layout_height="80dp"
+                    android:layout_marginLeft="1dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginTop="15dp"
+                    android:id="@+id/imgbtn3"
+                    app:srcCompat="@drawable/videonew"
+                    android:onClick="video"
+                    />
+                    <!--ImageButton
+                        android:layout_width="80dp"
+                        android:layout_marginLeft="50dp"
+                        android:layout_marginTop="25dp"
+                        android:id="@+id/buttonCapture"
+                        android:textAllCaps="false"
+                        android:layout_height="50dp"
+                        android:src="@drawable/captureCamera"
+                        android:cropToPadding="true"
+                        android:adjustViewBounds="true"
+                        android:onClick="capture" /-->
+
+                <!--Button
+                    android:text="Browse"
+                    android:textAllCaps="false"
+                    android:layout_width="80dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginTop="25dp"
+                    android:id="@+id/buttonBrowse"
+                    android:layout_height="50dp"
+                    android:background="@drawable/button"
+                    android:onClick="browse" /-->
+
+            </LinearLayout>
+
+                <TextView
+                    android:paddingTop="5dp"
+                    android:layout_width="253dp"
+                    android:layout_height="wrap_content"
+                    android:text="Please Select any Photo having Text"
+                    android:textColor="#FF99"
+                    android:textStyle="bold"/>
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/scrollView">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:id="@+id/lin">
+        <TextView
+            android:text=""
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvresult"
+            android:textAlignment="center"
+            android:textSize="20sp"
+            android:textColor="#ffee00"
+            android:textIsSelectable="true"
+            android:textStyle="bold"
+            android:hint="Please select a image !"
+            />
+        <Button
+            android:text="Copy Text to Clipboard"
+            android:textAllCaps="false"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:background="@drawable/butt"
+            android:id="@+id/btnCopy"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:textColor="#FFFF"
+            android:onClick="onCopy" />
+        <Button
+            android:text="Search On Google"
+            android:textAllCaps="false"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:background="@drawable/butt"
+            android:id="@+id/btnsearch"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:textColor="#FFFF"
+            android:onClick="onSearch" />
+
+
+
+
+        <!--GridView
+            android:layout_width="match_parent"
+            android:layout_height="399dp"
+            android:layout_below="@+id/imageView"
+            android:layout_marginTop="0dp"
+            android:layout_alignParentStart="true"
+            android:id="@+id/gridView"
+            android:numColumns="3"
+            android:background="@drawable/back2"
+            /-->
+
+        <GridView
+            android:id="@+id/gridView"
+            android:layout_width="match_parent"
+            android:layout_height="330dp"
+            android:columnWidth="100dp"
+            android:drawSelectorOnTop="true"
+            android:gravity="center"
+            android:numColumns="auto_fit"
+            android:stretchMode="columnWidth"
+            android:verticalSpacing="5dp"
+            android:focusable="true"
+            android:background="@drawable/back2"
+            android:clickable="true"/>
+    </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_splashscreen"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.anoop.myphoto.SplashScreen">
+
+
+
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:paddingBottom="40dp"
+        android:paddingLeft="50dp"
+        android:paddingRight="50dp"
+        android:paddingTop="40dp"
+        android:id="@+id/imageView"
+        android:background="@drawable/back"
+        android:src="@drawable/splash"
+        android:contentDescription="@string/gec"/>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Photo to Text"
+        android:layout_marginTop="60dp"
+        android:paddingBottom="10dp"
+        android:layout_alignParentTop="true"
+        android:id="@+id/textView3"
+        android:textAlignment="center"
+        android:textColor="@android:color/white"
+        android:textSize="38sp"
+        android:textStyle="normal|bold" />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/copy"
+        android:layout_marginBottom="30dp"
+        android:id="@+id/textView1"
+        android:textAlignment="center"
+        android:textColor="@android:color/white"
+        android:textSize="15sp"
+        android:textStyle="normal|bold|italic"
+        android:layout_alignParentBottom="true" />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/emailme"
+        android:layout_marginBottom="11dp"
+        android:id="@+id/textView5"
+        android:textAlignment="center"
+        android:textColor="@android:color/white"
+        android:textSize="15sp"
+        android:textStyle="normal|bold|italic"
+        android:layout_alignParentBottom="true" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/version"
+        android:id="@+id/textView2"
+        android:layout_gravity="center"
+        android:textColor="#f50909"
+        android:layout_marginTop="490dp"
+        android:layout_marginBottom="50dp"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:textStyle="italic" />
+
+</RelativeLayout>
+
+    <!--?xml version="1.0" encoding="utf-8"?>
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/activity_splash_screen"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        tools:context="com.example.anoop.myphoto.SplashScreen">
+
+    </RelativeLayout-->

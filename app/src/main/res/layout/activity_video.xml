@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_video"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:orientation="vertical"
+    tools:context="com.example.anoop.myphoto.Video"
+    android:background="#99feeeef">
+
+    <Button
+        android:text="Choose a video"
+        android:textStyle="bold"
+        android:textSize="25dp"
+        android:textAllCaps="false"
+        android:layout_width="match_parent"
+        android:layout_marginTop="5dp"
+        android:layout_height="40sp"
+        android:layout_gravity="center"
+        android:background="@drawable/butt"
+        android:id="@+id/imageView1"
+        android:onClick="chooseVideo"/>
+
+    <Button
+        android:text="Get Image"
+        android:textStyle="bold"
+        android:textSize="25dp"
+        android:textAllCaps="false"
+        android:layout_width="match_parent"
+        android:layout_height="40sp"
+        android:layout_gravity="center"
+        android:background="@drawable/butt"
+        android:id="@+id/imageView2"
+        android:onClick="Go"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:text="Play the video ,And pause it or click Get Image and click Get Text for Text result"
+        android:background="#99ff"
+        android:textColor="#ffdd44"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:textSize="20sp"/>
+    <VideoView
+        android:layout_width="match_parent"
+        android:layout_height="225dp"
+
+        android:id="@+id/videoView"
+        android:layout_weight="0.64" />
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        app:srcCompat="@drawable/ic_menu_camera"
+        android:id="@+id/imageResult" />
+
+    <Button
+        android:text="Get Text"
+        android:textStyle="bold"
+        android:textSize="25dp"
+        android:textAllCaps="false"
+        android:layout_width="match_parent"
+        android:layout_height="40sp"
+        android:layout_gravity="center"
+        android:background="@drawable/butt"
+        android:id="@+id/imageGo"
+        android:layout_marginBottom="10dp"
+        android:onClick="getText"/>
+
+</LinearLayout>

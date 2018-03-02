@@ -1,0 +1,194 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml:2:1-51:12
+MERGED from [com.android.support:design:24.2.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/design-24.2.1.aar/0c0d4afc7b58e9fc9b346511a785b90b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:24.2.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/72f2ed19f4463b6f70d2ccf9515d487d/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-vision:10.0.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/play-services-vision-10.0.1.aar/81448cca0745406b331509a993476e82/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/4b002204ca6e36ee6d6874fbc8dc5175/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.0.1.aar/e7a508db613df8230056be5ab6d4f746/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/a9ab54ac7a3982f5910251ac5efa793e/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:24.2.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/41a1909f1cc5bfa37c9c28d07b4d495e/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/a8cf4f1c177de0588238486758f18ccf/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/625fbde733f5fe8df0e9576d8d98a32b/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:recyclerview-v7:24.2.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-24.2.1.aar/2579c29ad0f5d9da555c0fb46f79a2b9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:24.2.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/be3029043963ab9c1890a3aed4153e89/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:24.2.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/a582e00b22659c0ad0a308466c3acf59/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/c7aba50db4605ac4d5352ca0a1496a59/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:24.2.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/cae30b3c39b88fdc14fa4dd9aeed6b66/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:24.2.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/433b0edec54c6b64d17c77a52ca467f4/AndroidManifest.xml:17:1-27:12
+INJECTED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml:2:1-51:12
+	package
+		ADDED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml
+		INJECTED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml
+		ADDED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml:2:1-51:12
+		INJECTED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml
+		ADDED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml:2:1-51:12
+		INJECTED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml:5:22-62
+uses-feature#android.hardware.camera
+ADDED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml:7:5-60
+	android:name
+		ADDED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml:7:19-57
+uses-permission#android.permission.INTERNET
+ADDED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml:9:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml:10:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.MEDIA_CONTENT_CONTROL
+ADDED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml:12:22-77
+application
+ADDED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml:14:5-49:19
+MERGED from [com.android.support:design:24.2.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/design-24.2.1.aar/0c0d4afc7b58e9fc9b346511a785b90b/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:24.2.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/design-24.2.1.aar/0c0d4afc7b58e9fc9b346511a785b90b/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/72f2ed19f4463b6f70d2ccf9515d487d/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/72f2ed19f4463b6f70d2ccf9515d487d/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-vision:10.0.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/play-services-vision-10.0.1.aar/81448cca0745406b331509a993476e82/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision:10.0.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/play-services-vision-10.0.1.aar/81448cca0745406b331509a993476e82/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/4b002204ca6e36ee6d6874fbc8dc5175/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/4b002204ca6e36ee6d6874fbc8dc5175/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.0.1.aar/e7a508db613df8230056be5ab6d4f746/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.0.1.aar/e7a508db613df8230056be5ab6d4f746/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/a9ab54ac7a3982f5910251ac5efa793e/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/a9ab54ac7a3982f5910251ac5efa793e/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.2.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/41a1909f1cc5bfa37c9c28d07b4d495e/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/41a1909f1cc5bfa37c9c28d07b4d495e/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/a8cf4f1c177de0588238486758f18ccf/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/a8cf4f1c177de0588238486758f18ccf/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/625fbde733f5fe8df0e9576d8d98a32b/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/625fbde733f5fe8df0e9576d8d98a32b/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/be3029043963ab9c1890a3aed4153e89/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/be3029043963ab9c1890a3aed4153e89/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/a582e00b22659c0ad0a308466c3acf59/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/a582e00b22659c0ad0a308466c3acf59/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/c7aba50db4605ac4d5352ca0a1496a59/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/c7aba50db4605ac4d5352ca0a1496a59/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/cae30b3c39b88fdc14fa4dd9aeed6b66/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/cae30b3c39b88fdc14fa4dd9aeed6b66/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/433b0edec54c6b64d17c77a52ca467f4/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/433b0edec54c6b64d17c77a52ca467f4/AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml:17:9-41
+	android:icon
+		ADDED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml:16:9-36
+	android:allowBackup
+		ADDED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml:19:9-40
+activity#com.example.anoop.myphoto.SplashScreen
+ADDED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml:20:9-26:20
+	android:name
+		ADDED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml:20:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml:24:27-74
+activity#com.example.anoop.myphoto.MainActivity
+ADDED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml:27:9-50
+	android:name
+		ADDED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml:27:19-47
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml:30:9-32:35
+	android:value
+		ADDED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml:32:13-32
+	android:name
+		ADDED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml:31:13-70
+activity#com.example.anoop.myphoto.Video
+ADDED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml:47:9-43
+	android:name
+		ADDED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml:47:19-40
+activity#com.example.anoop.myphoto.VideoResult
+ADDED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml:48:9-58
+	android:name
+		ADDED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml:48:19-46
+uses-sdk
+INJECTED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml
+INJECTED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:24.2.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/design-24.2.1.aar/0c0d4afc7b58e9fc9b346511a785b90b/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:24.2.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/design-24.2.1.aar/0c0d4afc7b58e9fc9b346511a785b90b/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/72f2ed19f4463b6f70d2ccf9515d487d/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.2.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/72f2ed19f4463b6f70d2ccf9515d487d/AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.android.gms:play-services-vision:10.0.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/play-services-vision-10.0.1.aar/81448cca0745406b331509a993476e82/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-vision:10.0.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/play-services-vision-10.0.1.aar/81448cca0745406b331509a993476e82/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/4b002204ca6e36ee6d6874fbc8dc5175/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/4b002204ca6e36ee6d6874fbc8dc5175/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.0.1.aar/e7a508db613df8230056be5ab6d4f746/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.0.1.aar/e7a508db613df8230056be5ab6d4f746/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/a9ab54ac7a3982f5910251ac5efa793e/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/a9ab54ac7a3982f5910251ac5efa793e/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:24.2.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/41a1909f1cc5bfa37c9c28d07b4d495e/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/41a1909f1cc5bfa37c9c28d07b4d495e/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/a8cf4f1c177de0588238486758f18ccf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/a8cf4f1c177de0588238486758f18ccf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/625fbde733f5fe8df0e9576d8d98a32b/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/625fbde733f5fe8df0e9576d8d98a32b/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-24.2.1.aar/2579c29ad0f5d9da555c0fb46f79a2b9/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-24.2.1.aar/2579c29ad0f5d9da555c0fb46f79a2b9/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:24.2.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/be3029043963ab9c1890a3aed4153e89/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/be3029043963ab9c1890a3aed4153e89/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:24.2.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/a582e00b22659c0ad0a308466c3acf59/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/a582e00b22659c0ad0a308466c3acf59/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/c7aba50db4605ac4d5352ca0a1496a59/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/c7aba50db4605ac4d5352ca0a1496a59/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/cae30b3c39b88fdc14fa4dd9aeed6b66/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/cae30b3c39b88fdc14fa4dd9aeed6b66/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/433b0edec54c6b64d17c77a52ca467f4/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/433b0edec54c6b64d17c77a52ca467f4/AndroidManifest.xml:21:5-23:58
+INJECTED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml
+INJECTED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/72f2ed19f4463b6f70d2ccf9515d487d/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml
+		ADDED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml
+		INJECTED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml
+		ADDED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml
+		INJECTED from /home/anoop/AndroidStudioProjects/MyPhoto/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/4b002204ca6e36ee6d6874fbc8dc5175/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/4b002204ca6e36ee6d6874fbc8dc5175/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/4b002204ca6e36ee6d6874fbc8dc5175/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/4b002204ca6e36ee6d6874fbc8dc5175/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.0.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/a9ab54ac7a3982f5910251ac5efa793e/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/a9ab54ac7a3982f5910251ac5efa793e/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] /home/anoop/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/a9ab54ac7a3982f5910251ac5efa793e/AndroidManifest.xml:20:20-65
